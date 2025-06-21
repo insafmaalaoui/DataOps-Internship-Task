@@ -4,6 +4,15 @@ This repository contains my complete submission for the DataOps internship prese
 
 ---
 
+##  Installation & Requirements
+
+Before running the project, install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+
+---
+
 ##  Part 1 – ETL Pipeline: OLTP to OLAP
 
 ###  What does the pipeline do?
@@ -21,7 +30,7 @@ This repository contains my complete submission for the DataOps internship prese
 ###  Files
 - `etl_task.ipynb` – Notebook containing full ETL pipeline
 - `/data/` – Source and transformed CSV files
-- `/docs/` – Plots and screenshots 
+- `/images/` – Plots and screenshots 
 
 ---
 
